@@ -1,10 +1,7 @@
-streamlit
-scikit-learn>=1.1.0
-joblib
-pandas
-numpy
-setuptools
-build
-wheel
-mlflow 
-distutils
+python==3.8
+streamlit==1.19.0
+scikit-learn==1.1.2
+joblib==1.1.0
+pandas==1.5.0
+numpy==1.23.3
+mlflow==2.4.0
